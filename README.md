@@ -15,10 +15,13 @@
 
 ## 📂 Projects  
 Here are some things I’ve worked on:  
-- 📝 **Wiki (Java, MVC Model)** – built a structured knowledge base app  
+- 📝 **Wiki (Java, MVC Model)** – built a structured knowledge base app with CRUD
 - 🌐 **WordPress Site** – customized and deployed a functional website  
 - 🛡️ **Snort IDS & Untangle Firewall** – configured and tested network security tools  
-- 📊 **SQL Database Manipulation** – hands-on database design and queries  
+- 📊 **SQL Database Manipulation** – hands-on database design and queries
+- 📰 **News Management System (Python Django)** - complete with built-in CRUD
+- 🖥 **Zabbix Monitoring** - virtual environment lab with Ubuntu
+- 🍄 **Mushroom Machine Learning** - multiple supervised ml (dt, rf, logreg) with feature importance and evaluation
 
 *(More projects coming soon — stay tuned!)*  
 
@@ -28,6 +31,7 @@ Here are some things I’ve worked on:
 - Gamer at heart 🎮  
 - Tech tinkerer 🛠️  
 - Always learning something new 🌱  
+- Science Enthusiast 🔬
 
 ---
 
